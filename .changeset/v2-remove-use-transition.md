@@ -2,7 +2,7 @@
 "@remix-run/react": major
 ---
 
-Remove deprecated `useTransition` hook in favor of `useNavigation`. `useNavigation` is _almost_ identical with a few exceptions:\_
+Remove deprecated `useTransition` hook in favor of `useNavigation`. `useNavigation` is _almost_ identical with a few exceptions:
 
 - `useTransition.type` has been removed since it can be derived from other available information
 - "Submission" fields have been flattened from `useTransition().submission` down onto the root `useNavigation()` object

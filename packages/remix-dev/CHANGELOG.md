@@ -1,5 +1,13 @@
 # `@remix-run/dev`
 
+## 2.0.0-pre.10
+
+### Patch Changes
+
+- [REMOVE] make `DataFunctionArgs` a type alias ([#7362](https://github.com/remix-run/remix/pull/7362))
+- Updated dependencies:
+  - `@remix-run/server-runtime@2.0.0-pre.10`
+
 ## 2.0.0-pre.9
 
 ### Patch Changes
